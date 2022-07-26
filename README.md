@@ -8,6 +8,10 @@ The project is a simple landing page developed only with HTML and CSS in order t
 <img src="https://i.imgur.com/rGXNDX9.png"/>
 
 
+## Final Version:
+
+<img src="https://i.imgur.com/2O5kfY8.png"/>
+
 
 ## Credits for image:
 
